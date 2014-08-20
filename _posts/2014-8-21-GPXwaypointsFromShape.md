@@ -4,9 +4,6 @@ title: Convert point shapefile to GPX waypoints for use in Garmin GPS
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 The easiest way or one way to this is with [QGIS] http://www.qgis.org
 
 1) Open QGIS
@@ -16,6 +13,7 @@ The easiest way or one way to this is with [QGIS] http://www.qgis.org
 You can create a string description of multiple columns like this:
 
 Screenshot 2014-08-19 08.41.07
+![_config.yml]({{ site.baseurl }}/images/config.png)
 
 Thus the table with the three default columns:
 
