@@ -4,8 +4,6 @@ title: Convert point shapefile to GPX waypoints for use in Garmin GPS
 ---
 
 The easiest way or one way to this is with [QGIS] http://www.qgis.org
-(shown below :point_down:).
-
 
 1) Open QGIS
 
