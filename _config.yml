@@ -6,7 +6,7 @@
 name: Hans Ole Ørka
 
 # Short bio or description (displayed in the header)
-description: LiDAR guy
+description: A blog to remember how to do stuff - mostly for my self
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://pbs.twimg.com/profile_images/378800000668252193/423e00439e7cd2567c86bbce7973b2a8_400x400.jpeg
@@ -23,7 +23,7 @@ footer-links:
   flickr: 
   github: hansoleorka
   instagram: 
-  linkedin: hans-ole-ørka/40/948/775
+  linkedin: hansoleoerka
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: HansOleOerka

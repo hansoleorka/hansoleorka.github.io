@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Have a look at the [www.forestinventory.no](http://www.forestinventory.no/) 
 
-### More Information
+### More Information about me
 
-A place to include any other types of information that you'd like to include about yourself. 
+http://statisk.umb.no/ina/ansatte/hanso_e.php
 
 ### Contact me
 
