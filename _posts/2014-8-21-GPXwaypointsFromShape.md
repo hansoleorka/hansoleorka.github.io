@@ -14,7 +14,7 @@ Edit the table so that it have the three columns name, cmt, and desc. The name c
 You can create a string description of multiple columns like this:
 
 
-![an image alt text]({{ site.baseurl }}/images/image002.png "an image title")
+![an image alt text]({{ site.baseurl }}/images/image002.jpg "an image title")
 
 ![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
 
@@ -22,16 +22,16 @@ You can create a string description of multiple columns like this:
 Thus the table with the three default columns:
 
 
-![_config.yml5]({{ site.baseurl }}/images/2014-08-20/image004.png)
+![_config.yml5]({{ site.baseurl }}/images/2014-08-20/image004.jpg)
 
 ###Step 3
 
 The export to GPX using the Layer menu and Save as. Remember to set the coordinate system of the GPS (Check if important, maybe a geograpichal system is needed??). In the Save vector layer as dialog box set CRS=Selected CRS og Browse to the correct system (eg. WGS84 -  ESPG:4326).
 
 
-![_config.yml2]({{ site.baseurl }}/images/2014-08-20/image006.png)
+![_config.yml2]({{ site.baseurl }}/images/2014-08-20/image006.jpg)
 
 The GPX file should den look like this if opened in a text editor:
 
-![_config.yml4]({{ site.baseurl }}/images/image008.png)
+![_config.yml4]({{ site.baseurl }}/images/image008.jpg)
 
