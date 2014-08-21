@@ -1,4 +1,4 @@
-#
+﻿#
 # This file contains configuration flags to customize your site
 #
 
@@ -23,7 +23,7 @@ footer-links:
   flickr: 
   github: hansoleorka
   instagram: 
-  linkedin: 
+  linkedin: http://no.linkedin.com/pub/hans-ole-ørka/40/948/775/
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: HansOleOerka

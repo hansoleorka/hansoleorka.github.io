@@ -11,16 +11,19 @@ The easiest way or one way to this is with [QGIS] http://www.qgis.org
 
 You can create a string description of multiple columns like this:
 
-Screenshot 2014-08-19 08.41.07
-![_config.yml]({{ site.baseurl }}/images/config.png)
+
+![_config.yml]({{ site.baseurl }}/images/2014-08-20/image002.png)
 
 Thus the table with the three default columns:
 
-Screenshot 2014-08-19 08.41.32
+
+![_config.yml]({{ site.baseurl }}/images/2014-08-20/image004.png)
 
 4) The export to GPX using the Layer menu and Save as. Remember to set the coordinate system of the GPS (Check if important, maybe a geograpichal system is needed??). In the Save vector layer as dialog box set CRS=Selected CRS og Browse to the correct system (eg. WGS84 -  ESPG:4326).
 
-Screenshot 2014-08-19 08.45.13
+
+![_config.yml]({{ site.baseurl }}/images/2014-08-20/image006.png)
 
 The GPX file should den look like this if opened in a text editor:
 
+![_config.yml]({{ site.baseurl }}/images/2014-08-20/image008.png)
