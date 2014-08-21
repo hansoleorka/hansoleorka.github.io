@@ -3,10 +3,12 @@ layout: post
 title: Convert point shapefile to GPX waypoints for use in Garmin GPS
 ---
 
-The easiest way or one way to this is with [QGIS] (http://www.qgis.org/)
+The easiest way or atleast one way to this is with [QGIS](http://www.qgis.org/).
 
-1) Open QGIS
+###Step 1
+Open QGIS
 
+###Step 2
 2) Edit the table so that it have the three columns name, cmt, and desc. The name column will be the waypoint id, the two other columns are comments (cmt) and description desc). I have to check which one that is most important.
 
 You can create a string description of multiple columns like this:
