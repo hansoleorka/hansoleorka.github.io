@@ -3,7 +3,7 @@ layout: post
 title: Convert point shapefile to GPX waypoints for use in Garmin GPS
 ---
 
-The easiest way or one way to this is with [QGIS] http://www.qgis.org
+The easiest way or one way to this is with [QGIS] (http://www.qgis.org)
 
 1) Open QGIS
 
@@ -12,7 +12,7 @@ The easiest way or one way to this is with [QGIS] http://www.qgis.org
 You can create a string description of multiple columns like this:
 
 
-![_config.yml]({{ site.baseurl }}/images/2014-08-20/image002.png)
+![_config.yml]({{ site.baseurl }}/images/2014-08-20/image002.png "Step2")
 
 Thus the table with the three default columns:
 
