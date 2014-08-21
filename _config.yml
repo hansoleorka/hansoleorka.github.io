@@ -23,7 +23,7 @@ footer-links:
   flickr: 
   github: hansoleorka
   instagram: 
-  linkedin: http://no.linkedin.com/pub/hans-ole-ørka/40/948/775/
+  linkedin: hans-ole-ørka/40/948/775
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: HansOleOerka
@@ -37,7 +37,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: 
+url: http://hansoleorka.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
